@@ -3,6 +3,6 @@
 target/
 .idea
 .envrc
-node_modiles
+node_modules
 index.js
 package.json
