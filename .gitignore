@@ -1,0 +1,8 @@
+*.spkg
+/replay.log
+target/
+.idea
+.envrc
+node_modiles
+index.js
+package.json

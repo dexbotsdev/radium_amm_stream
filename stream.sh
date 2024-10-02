@@ -1,0 +1,1 @@
+substreams gui ./substreams.yaml raydium_amm_events -e mainnet.sol.streamingfast.io:443   --start-block 253000028  
